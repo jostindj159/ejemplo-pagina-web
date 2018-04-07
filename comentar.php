@@ -1,4 +1,4 @@
-<?php
+<?php jhjhjhjhjh
 $comentario=strip_tags($_POST['comentario']);
 $usuario=strip_tags($_POST['usuario']);
 
